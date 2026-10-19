@@ -222,15 +222,3 @@ Execute all cells sequentially (`Kernel` -> `Restart & Run All`) to reproduce th
 
 ---
 
-## 💡 Suggested Project Names
-
-If you are looking to rename the project folder or notebook from generic names (`Project2` / `Untitled.ipynb`), here are recommended suggestions:
-
-| Style | Suggested Name | Best Used For |
-| :--- | :--- | :--- |
-| 🎯 **Direct & Descriptive** | `height-weight-linear-regression` | GitHub portfolio, educational repositories |
-| 🔬 **Analytical & Academic** | `biometric-stature-regression-analysis` | Research papers, statistical analysis showcase |
-| 💼 **Production / App Style** | `StaturePredict-ML` or `HeightCast` | Deployment, web app, or API service |
-| 📓 **Recommended Notebook Name** | `height_weight_regression_pipeline.ipynb` | Replacing `Untitled.ipynb` |
-
----
